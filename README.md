@@ -22,7 +22,7 @@ Telegram Chat: https://t.me/DiscordTools
 
 ## Contributors
 
-@Petey1337
+[@Petey1337](https://github.com/Petey1337) - HTML / CSS
 
 ## Donate
 
