@@ -11,7 +11,7 @@ class Dstat {
         this.express = express;
         this.app = this.express();
         this.wss = new WebSocket.Server(options.websocket);
-        this.js = fs.readFileSync('js/index.js', 'utf-8').replace(/{port}/gi, options.websocket.port);
+        this.js = fs.readFileSync('html/js/index.js', 'utf-8').replace(/{port}/gi, options.websocket.port);
     }
     start() {
         this.startSite();
