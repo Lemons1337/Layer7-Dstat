@@ -20,6 +20,10 @@ Once the web server is online every request sent to the website will add to the 
 
 Telegram Chat: https://t.me/DiscordTools
 
+## Contributors
+
+@Petey1337
+
 ## Donate
 
 Bitcoin: 1JKtC7rQNo23iA9p35XaovetKvs5RDF1S
