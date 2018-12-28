@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "express": "^4.16.4",
+        "ws": "^6.1.2"
+    }
+}

@@ -1,0 +1,80 @@
+html, body {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background-image: url("../img/bg.png");
+}
+
+a {
+	text-decoration: none;
+	color: green;
+}
+
+.hostname {
+    font-size: 20pt;
+    text-align: center;
+    font-weight: bold;
+    color: green;
+}
+
+.text {
+    font-size: 14pt;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+	
+.wrapper {
+    background-color:#262626;
+    display: flex;
+    justify-content: center;
+    border: 3px solid green;
+    margin: 10px;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+
+p {
+	color: green;
+}
+
+.top {
+	border: 3px solid green;
+	border-radius: 50px;
+	color: green;
+	font-weight: bold;
+    font-size: 24pt;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bar {
+    margin: -10px;
+    margin-bottom: initial;
+    padding: 10px;
+    background-color:#4286f4;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.copyright {
+	color: green;
+	font-weight: bold;
+	font-weight: italic;
+	font-weight: underline;
+	font-size: 9pt;
+    padding: 5px;
+    border: 3px solid green;
+	border-radius: 50px;
+}
+
+#graph {
+    width: 100%;
+    height: 70%;
+    border-radius: 10px;
+}
